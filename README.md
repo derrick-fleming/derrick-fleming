@@ -6,13 +6,13 @@ I'm Derrick, a software developer with skills in JavaScript, React, Node.js, CSS
 
 [![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrick-fleming&hide=stars,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🚀 Currently adding features to my project: [Park-Advisor](https://park-advisor.derrickfleming.com/). 
-- 🌱 Currently learning TypeScript
-- ⚡️ Fun facts - I love alpacas 🦙 and am currently playing Horizon Forbidden West 🏹
+- 🚀 Currently wrapping up my [portfolio](https://www.derrickfleming.com/). 
+- 🌱 Currently furthering my knowledge of TypeScript and React
+- ⚡️ Fun facts - I love alpacas 🦙 and am currently playing Pokemon Violet.
 
 
 ## 💻 Stack
-- **Languages:** JavaScript, HTML5, CSS3, SQL
+- **Languages:** JavaScript, HTML5, CSS3, SQL, TypeScript
 - **Libraries/Frameworks:** React, Node.js, Express.js, Bootstrap
 - **Tools:** Git, Github, Docker, Figma, Visual Studio Code, NPM, Babel, Webpack, Slack
 
@@ -22,6 +22,7 @@ I'm Derrick, a software developer with skills in JavaScript, React, Node.js, CSS
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/derrick-fleming/) 
 - derrickfleming7@gmail.com
+- Check out my [portfolio](https://derrickfleming.com)
 
 
 <!--
