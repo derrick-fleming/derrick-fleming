@@ -4,8 +4,6 @@
 
 I'm Derrick, a software developer with skills in JavaScript, React, Node.js, CSS, and HTML. As a former educator and instructional designer, I'm drawn to being able to problem solve and think creatively through programming. I love being able to improve and grow in my skills and am always striving to learn each day. My goal is to create applications that can provide a meaningful and positive impact on the community.
 
-[![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrick-fleming&hide=stars,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🚀 Currently revising previous applications and experimenting with smaller ones.
 - 🌱 Currently learning more about Python 🐍 and Bash scripting.
 - ⚡️ Fun facts - I love alpacas 🦙 .
